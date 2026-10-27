@@ -1,0 +1,2 @@
+paçoca = input("digite um numero:")
+print(paçoca)
